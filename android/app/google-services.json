@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79554856810",
+    "project_id": "alumniapp-ffdd0",
+    "storage_bucket": "alumniapp-ffdd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79554856810:android:475bb36bb7301f30f88713",
+        "android_client_info": {
+          "package_name": "com.example.alumni_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5vRbcsnRfEQ6slA2Putwh3IlE5NEbr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
